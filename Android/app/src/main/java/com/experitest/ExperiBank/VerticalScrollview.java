@@ -43,7 +43,7 @@ public class VerticalScrollview extends ScrollView {
 			return false;
 
 		default:
-			Log.i("VerticalScrollview", "onInterceptTouchEvent: " + action);
+			Log.i("VerticalScrollview", "onInterceptTouchEvent: " + "test");
 			break;
 		}
 
